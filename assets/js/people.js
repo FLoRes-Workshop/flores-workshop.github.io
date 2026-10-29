@@ -34,7 +34,7 @@ window.FLORES_PEOPLE = {
       name: "Jezabel R. Garcia",
       affiliation: "Multiverse Computing",
       initials: "JG",
-      image: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Qwq1JjYAAAAJ&citpid=2",
+      image: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbmZDK5C1TZCvOxBy5FL9sA%3D%3D",
       imagePosition: "center top",
       url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6?originalSubdomain=es",
       color: "coral"
