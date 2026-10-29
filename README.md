@@ -27,6 +27,10 @@ The shared placeholder is **`assets/images/person-placeholder.svg`**. The page o
 
 Remote photos are loaded from the supplied URLs, without a local copy. Changes appear automatically only when the image at that same URL is replaced (subject to browser/server caching); the site does not track changes to a person's profile page. Signed LinkedIn image URLs can expire and may need replacing. Helen Yannakoudakis retains the original photo and webpage placeholders.
 
+For LinkedIn photos, open the profile photo and choose **Copy image link** from its right-click menu. Paste that direct image URL (usually starting with `https://media.licdn.com/`) into `image`; keep the LinkedIn profile-page URL in `url`.
+
+After editing `assets/js/people.js`, increment the `?v=` value on its script tag in `index.html` and commit both files. This makes browsers request the updated data file instead of a cached copy. GitHub Pages may also cache the HTML briefly; a hard refresh after deployment can help.
+
 For a tall portrait, add `imagePosition: "center top"` to keep the person's face in the crop. Jezabel's portrait uses this setting; other photos are centered by default.
 
 ## Update the workshop

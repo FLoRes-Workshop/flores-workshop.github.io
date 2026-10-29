@@ -34,7 +34,7 @@ window.FLORES_PEOPLE = {
       name: "Jezabel R. Garcia",
       affiliation: "Multiverse Computing",
       initials: "JG",
-      image: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbmZDK5C1TZCvOxBy5FL9sA%3D%3D",
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQEqsafdGsexpQ/profile-displayphoto-crop_800_800/B4EZ9M63DwHMAI-/0/1783701927469?e=1795046400&v=beta&t=p67gUVlF3Nsc_TCbJN2eQOVpj8pW28UKKwG8LW_FAfE",
       imagePosition: "center top",
       url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6?originalSubdomain=es",
       color: "coral"
